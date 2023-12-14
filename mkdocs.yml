@@ -1,0 +1,29 @@
+site_name: Ağ Güvenliği
+site_description: Ağ güvenliği Proje Ödevi
+
+theme:
+  name: readthedocs
+
+nav:
+  - Ana Sayfa: 'index.md'
+  - Giriş:
+    - '1-1.md'
+    - '1-2.md'
+  - Temel Ağ Güvenliği Uygulamalari:
+    - '2-0.md'
+    - '2-1.md'
+    - '2-2.md'
+    - '2-3.md'
+  - Kriptografi ve Şifreleme Araçlari:
+    - '3-0.md'
+    - '3-1.md'
+    - '3-2.md'
+    - '3-4.md'
+  - Kriptografi ve Şifreleme; Gerçek Dünya Senaryolari:
+    - '4-0.md'
+  - Kaynakça: 'Kaynakça.md'
+  - MertKus: 'mertkus.md'
+
+# plugins:
+#   - search
+#   - mkdocs-material
